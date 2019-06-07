@@ -1,5 +1,0 @@
-const path = require('path')
-const userHome = require('user-home')
-const generate = require('../../lib/generate')
-const tmpPath = path.join(userHome, '.oms-templates', 'vue-webpack-pc')
-generate(tmpPath)
