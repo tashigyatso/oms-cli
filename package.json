@@ -1,11 +1,11 @@
 {
   "name": "oms-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个基于 Vue.js 的快速构建前端项目的工具.",
   "author": "Sorens",
   "license": "MIT",
-  "homepage": "https://github.com/wy72yjf/oms-cli",
-  "repository": "git@github.com:wy72yjf/oms-cli.git",
+  "homepage": "https://github.com/tashigyatso/oms-cli",
+  "repository": "git@github.com:tashigyatso/oms-cli.git",
   "bin": {
     "oms": "bin/oms"
   },
