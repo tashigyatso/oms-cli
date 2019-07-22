@@ -1,11 +1,11 @@
 [
   {
     "name": "vue-template-pc",
-    "url": "github:wy72yjf/vue-template-pc",
+    "url": "github:tashigyatso/vue-template-pc",
     "description": "pc端vue多项目构建模版"
   }, {
     "name": "vue-template-mobile",
-    "url": "github:wy72yjf/vue-template-mobile",
+    "url": "github:tashigyatso/vue-template-mobile",
     "description": "移动端vue多项目构建模版"
   }
 ]
